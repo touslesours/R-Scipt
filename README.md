@@ -1,1 +1,1 @@
-# R-Scipt
+# R-Script
